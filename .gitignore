@@ -1,0 +1,13 @@
+# Fichiers temporaires Excel
+~$*.xlsm
+.DS_Store
+Thumbs.db
+
+# Dossiers système
+.git/
+.idea/
+__pycache__/
+
+# Fichiers de backup
+*.bak
+*.tmp
