@@ -142,19 +142,7 @@ Tous les fichiers incluent des données de test réalistes :
 
 ---
 
-## 👤 Contexte Métier
 
-Simulation d'un système d'automatisation pour la gestion des astreintes à SNCF (Direction Ressources Humaines / Ligne d'Assistance Juridique).
-
-Démontre :
-- ✅ Maîtrise de VBA et Excel
-- ✅ Architecture logicielle 3-couches
-- ✅ Logique métier SNCF réaliste
-- ✅ Gestion de données complexes
-- ✅ Automatisation bout-en-bout
-- ✅ Rigueur et documentation
-
----
 
 ## 📄 License
 
