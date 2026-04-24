@@ -1,4 +1,4 @@
-# SNCF Code VBA - Gestion des Astreintes et Affectations LAJ
+# SNCF Code VBA - Gestion des Astreintes et Affectations 
 
 Suite de 3 projets Excel VBA pour l'automatisation complète de la gestion des astreintes SNCF (Direction des Ressources Humaines / Ligne d'Assistance Juridique).
 
@@ -158,7 +158,6 @@ Démontre :
 
 ## 📄 License
 
-Confidential - Simulation pour candidature SNCF/DRH
 
 ---
 
